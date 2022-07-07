@@ -269,8 +269,10 @@ figcaption
 		text-align:				justify;
 		margin:					0.5em;
 	}
-}
 
+#date {
+		text-align: right;
+}
 
 hr {
     border: 				0;
