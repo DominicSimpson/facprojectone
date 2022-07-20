@@ -274,6 +274,14 @@ figcaption
 		text-align: right;
 }
 
+.bold {
+	font-weight: bold;
+}
+
+.italics {
+	font-style: italic;
+}
+
 hr {
     border: 				0;
     height: 				1px;
