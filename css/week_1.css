@@ -35,7 +35,7 @@ h1
 	font-weight:			bold;
 	color:					#000;
 	font-family:			'Oswald', sans-serif;
-	font-size:				3em;
+	font-size:				5em;
 	text-align: 			center;
 }
 
@@ -44,7 +44,7 @@ h2
 	font-size:				1.75em;
 	margin:					0.5em;
 	color:					#000;
-	font-family: 			'Oswald', sans-serif;
+	font-family: 			'Archivo Black', sans-serif;
 	float: 					left;
 	clear: 					both;
 }
