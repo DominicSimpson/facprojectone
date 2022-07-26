@@ -27,7 +27,8 @@ ul, ol
 body 
 {
 	font-family:			Tahoma, Arial, sans-serif;
-	background-color: 		#ffffff;
+	background-color:		antiquewhite;			
+
 }
 
 h1
@@ -100,7 +101,7 @@ ul
 #page
 {
 	width:					95%;
-	margin: 				0 auto;			
+	margin: 				0 auto;
 }
 
 /* Header Section */
@@ -108,7 +109,7 @@ ul
 #pageheader
 {
 	margin:					1em;
-	padding-bottom:			5em;
+	padding-bottom:			2em;
 	overflow:				hidden;
 	max-width:				100%;
 }
@@ -116,15 +117,7 @@ ul
 
 /* Main Section Defaults */
 
-#mainsectioncontainer
-{
-	overflow:				hidden;
-	width:					95% auto;
-	border:					2px solid #FFFFFF;
-	padding:				0.1em;
-	margin:					0em 0.1em 0.1em 0.1em;
-	box-shadow:				3px 3px #FFFFFF;
-}
+
 
 #headlinetext
 {
@@ -252,29 +245,40 @@ figcaption
 	font-style: italic;
 }
 
-hr {
-    border: 				0;
-    height: 				1px;
-    background:		 		#333;
-	background-image: 		linear-gradient(to right, #ccc, #333, #ccc);
-	margin: 				25px 0px;
-	clear:					both;
-
+.skiplink
+{
+	position:				absolute;
+	left: 					-10000px;
 }
+
+.skiplink:focus
+{
+	left:					0;
+	background-color: 		#4c712b;
+	color:					#ffff00;
+}
+
+.skiplink a:hover, a:focus
+{
+	color:					#4c712b;
+	text-decoration:		underline;
+}
+
 
 /* Homepage */
 
-#homepagemainsection
+#mainsection
 {
 	overflow:				hidden;
-	border:					1px solid #C9C0C0;
+	border:					2px solid #C9C0C0;
 	width:					96%;
 	padding:				0.5em;
 	margin:					0.5em;
 	box-shadow:				2px 2px #C9C0C0;
+	background-color: 		white;
 }
 
-#homepagemainsection h1
+#mainsection h1
 {
 	padding:				0.5em;
 }
@@ -286,22 +290,6 @@ hr {
 	overflow:				hidden;
 	clear:					both;
 	width:					95%;
-	border:					2px #FFFFFF;
-	padding:				0.1em;
-	margin:					0.1em 0.1em 0.5em 0.1em;
-}
-
-#footertext
-{
-	padding:				0.5em;
-	margin:					0.5em;
-	float:					left;
-}
-
-#footertext h2
-{
-	font-family:			Arial, Helvetica, sans-serif;
-	font-size:				1.0em;
-	color:					#FFF;
-	margin:					0 auto;
+	padding:				1em;
+	margin:					1em 0.5em 1em 0.1em;
 }

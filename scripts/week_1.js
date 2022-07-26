@@ -1,2 +1,4 @@
-const date = new Date();
-document.getElementById('date').innerHTML = date;
+const d = new Date();
+let text = d.toLocaleString();
+document.getElementById("date").innerText = text;
+
