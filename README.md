@@ -8,6 +8,10 @@
 
 ###### To create a professional effect, I used Google Fonts; after experimenting with different typefaces, I utilised Oswald sans-serif for the heading with Fuller's name, and then 'Uchen' serif for the h2 sub-heading (also utilised at the foot of the page). Meanwhile, for the section headings, I used Archivo Black, a font that I particularly like, and one that I think fitted Fuller's retro-futurist aesthetic.
 
+###### Also of a retro-futurist bent was the background color I used for the body of the document - Antique White. Over this, I added the main section container, which featured the text and images. I decided to make the background straight white for this because a number of the images were on a white background, and so blended well. This includes the Dymaxion car.
+
+
+
 
 
 
