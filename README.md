@@ -4,5 +4,6 @@
 
 ###### I first discovered who Fuller was when I visited the Montreal Biosphere around ten years ago - an environmental music inside Fuller's trademark geodesic dome. 
 
-/../main/assets/images/montreal_biosphere.jpg
+![Image of Montreal Biosphere](https://dominicsimpson.github.io/facprojectone/images/montreal_biosphere.jpg)
+
 
