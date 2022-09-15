@@ -4,7 +4,7 @@
 
 ![buckminsterfuller_mainphoto](https://user-images.githubusercontent.com/52511353/190501182-48d6ac97-4636-4324-a91e-f2cbf7531346.jpg)
 
-###### I first discovered who Fuller was when I visited the Montreal Biosphere around ten years ago - an environmental music inside Fuller's trademark geodesic dome. 
+###### I first discovered who Fuller was when I visited the Montreal Biosphere around ten years ago, pictured both in the photo above and in the one below (the latter taken by myself) - an environmental music inside Fuller's trademark geodesic dome. It was built to house the American pavillion at the 1967 World Fair in Canada.
 
 ![Image of Montreal Biosphere](https://dominicsimpson.github.io/facprojectone/images/montreal_biosphere.jpg)
 
