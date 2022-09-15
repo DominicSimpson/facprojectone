@@ -10,6 +10,8 @@
 
 ###### Also of a retro-futurist bent was the background color I used for the body of the document - Antique White. Over this, I added the main section container, which featured the text and images. I decided to make the background straight white for this because a number of the images were on a white background, and so blended well. This includes the Dymaxion car.
 
+###### Initially, I featured the time and date at the top of the document, but it didn't blend in well with the heading, so I relocated it at the footer, together with my name. The document looks less cluttered as a result.
+
 
 
 
